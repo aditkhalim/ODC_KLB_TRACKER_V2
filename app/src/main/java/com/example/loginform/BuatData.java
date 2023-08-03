@@ -16,6 +16,7 @@ public class BuatData extends AppCompatActivity {
     Button ton1, ton2;
     EditText text1, text2, text3, text4, text5;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,6 +46,8 @@ public class BuatData extends AppCompatActivity {
                         Toast.LENGTH_LONG).show();
                 infoOdcActivity.ma.RefreshList();
                 finish();
+
+
             }
         });
         ton2.setOnClickListener(new View.OnClickListener() {
@@ -55,4 +58,5 @@ public class BuatData extends AppCompatActivity {
             }
         });
     }
+
 }

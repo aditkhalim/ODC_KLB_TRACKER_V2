@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659471223603",
+    "firebase_url": "https://loginform-bb1ec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginform-bb1ec",
+    "storage_bucket": "loginform-bb1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659471223603:android:b1878d20d08807ce518c46",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659471223603-94j1cpbgaqtgdann44jfhrvo494266no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLljssZsssSxghEx7xh-JOqplE83y5Uy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659471223603-94j1cpbgaqtgdann44jfhrvo494266no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
